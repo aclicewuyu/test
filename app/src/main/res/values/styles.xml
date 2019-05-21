@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="PyyTheme" parent="android:Theme.Material.Light" >-->
+        <!--<item name="android:colorPrimary">@android:color/holo_blue_bright</item>-->
+        <!--<item name="android:colorAccent">@color/colorAccent</item>-->
+    <!--</style>-->
+
+    <style name="Theme.AppCompat.Light.NoActionBar" parent="@style/Theme.AppCompat.Light">
+        <!--<item name="android:windowNoTitle">true</item>-->
+    </style>
+
+</resources>
