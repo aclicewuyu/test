@@ -1,4 +1,4 @@
-package com.autosigninwxq;
+﻿package com.autosigninwxq;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
@@ -21,7 +21,7 @@ public class AppInfo {
     public Drawable appIcon = null;//应用图标
     public boolean chosen = false;
     /**
-     * 获取本机所安装app信息
+     * 获取本机所安装app信息//////////但是撒多
      * @return List<AppInfo> app信息列表
      */
     public static ArrayList<AppInfo> showSupportApps(Context context) {
